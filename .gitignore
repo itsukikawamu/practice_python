@@ -1,0 +1,13 @@
+# 仮想環境フォルダ
+myenv/
+
+# キャッシュファイル
+*.pyc
+__pycache__/
+
+# Jupyter Notebookのチェックポイント
+.ipynb_checkpoints/
+
+# OSやIDE関連の不要なファイル
+.DS_Store
+.vscode/
